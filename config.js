@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'The Star',
+			name: 'Google',
 			icon: 'glasses',
-			link: 'https://www.thestar.com.my/',
+			link: 'https://www.google.com/',
 		},
 		{
 			id: '6',
