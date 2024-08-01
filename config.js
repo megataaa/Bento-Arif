@@ -78,7 +78,7 @@ const CONFIG = {
 		{
 			id: '5',
 			name: 'Google',
-			icon: 'glasses',
+			icon: 'search',
 			link: 'https://www.google.com/',
 		},
 		{
