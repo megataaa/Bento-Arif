@@ -147,7 +147,7 @@ const CONFIG = {
 					link: 'https://www.youtube.com/watch?v=Htq2EUgcrKE',
 				},
 				{
-					name: 'Oldies',
+					name: 'Relax',
 					link: 'https://www.youtube.com/watch?v=8m96CnsXXDw',
 				},
 				{
