@@ -151,7 +151,7 @@ const CONFIG = {
 					link: 'https://www.youtube.com/watch?v=8m96CnsXXDw',
 				},
 				{
-					name: 'Adrenaline',
+					name: 'Overclock',
 					link: 'https://www.youtube.com/watch?v=3zzCyP5pdak',
 				},
 			],
