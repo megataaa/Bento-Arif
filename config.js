@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'AnkiApp',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://web.ankiapp.com/home',
 		},
 		{
 			id: '4',
