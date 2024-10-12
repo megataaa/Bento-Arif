@@ -65,7 +65,7 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'AnkiApp',
+			name: 'Anki',
 			icon: 'trello',
 			link: 'https://web.ankiapp.com/home',
 		},
