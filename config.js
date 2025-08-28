@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Anki',
+			name: 'Twitter',
 			icon: 'trello',
-			link: 'https://web.ankiapp.com/home',
+			link: 'https://x.com/notifications',
 		},
 		{
 			id: '4',
@@ -83,7 +83,7 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'youtube',
+			name: 'Youtube',
 			icon: 'youtube',
 			link: 'https://www.youtube.com/',
 		},
