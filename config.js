@@ -54,7 +54,7 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Github',
-			icon: 'github',
+			icon: 'server',
 			link: 'https://github.com/megataaa/Bento-Arif',
 		},
 		{
@@ -66,7 +66,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Twitter',
-			icon: 'trello',
+			icon: 'newspaper',
 			link: 'https://x.com/notifications',
 		},
 		{
@@ -84,7 +84,7 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'Youtube',
-			icon: 'youtube',
+			icon: 'square-play',
 			link: 'https://www.youtube.com/',
 		},
 	],
